@@ -1,4 +1,4 @@
-" hello#world() function does not work vim tag completion if not define command as alias.
+echo 'load plugin/'
 function s:GetAutoloadVariable()
   echo g:hello#world
 endfunction
